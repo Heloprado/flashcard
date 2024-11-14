@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Planetas',
+    'Nomes dos planetas do sistema solar',
+    'Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Rotação e Translação',
+    'O que é translação e rotação?',
+    'O primeiro é o movimento em que o planeta traça uma órbita em torno do Sol. Já o segundo diz respeito ao giro que a Terra empreende em torno do seu próprio eixo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Sistema Solar',
+    'Para que serve o sistema solar?',
+    'Fornece calor e é uma grande fonte de energia luminosa'
 )
